@@ -10,6 +10,7 @@ dependencies = [
     "huggingface-hub>=0.28.0",
     "ipykernel>=6.29.0",
     "jupyter>=1.1.0",
+    "matplotlib>=3.11.1",
     "peft>=0.14.0",
     "torch>=2.5.0",
     "transformers>=4.49.0",
